@@ -108,7 +108,7 @@ if st.button("Recommend"):
    ```
 
 
-   ![Project Screenshot](Project%20Screenshot.png)
+![Project Screenshot](Project%20Screenshot.png)
 
 
 ## Future Improvements
