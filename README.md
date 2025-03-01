@@ -120,6 +120,7 @@ This project is licensed under the MIT License.
 ![Project Screenshot](path/to/your/image.png)
 
 ---
-**Author**: Yashvardhan Singh 
+**Author**: Yashvardhan Singh
+
 **GitHub**: [YashVdSingh07]([https://github.com/your-profile](https://github.com/YashVdSingh07))
 
