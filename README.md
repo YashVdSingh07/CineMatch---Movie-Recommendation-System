@@ -3,7 +3,7 @@
 ## Overview
 CineMatch is an AI-powered movie recommendation system that suggests movies similar to the ones users select. It utilizes machine learning techniques to find similarities between movies and provides recommendations along with movie posters.
 
-![ProjectBanner](Project_Banner.png)
+![Project Banner](Project%20Banner.png)
 
 ## Features
 - **Movie Recommendations**: Provides five movie suggestions based on user selection.
@@ -117,7 +117,7 @@ This project is licensed under the MIT License.
 
 ---
 
-![Project Screenshot](Project_Screenshot.png)
+![Project Screenshot](Project%20Screenshot.png)
 
 ---
 **Author**: Yashvardhan Singh
