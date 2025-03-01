@@ -107,6 +107,10 @@ if st.button("Recommend"):
    streamlit run app.py
    ```
 
+
+   ![Project Screenshot](Project%20Screenshot.png)
+
+
 ## Future Improvements
 - **Enhanced Recommendation Algorithm**: Use deep learning models for better predictions.
 - **User Login System**: Allow users to save their preferences.
@@ -114,10 +118,6 @@ if st.button("Recommend"):
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-![Project Screenshot](Project%20Screenshot.png)
 
 ---
 **Author**: Yashvardhan Singh
