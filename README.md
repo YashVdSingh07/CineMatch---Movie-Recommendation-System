@@ -117,7 +117,7 @@ This project is licensed under the MIT License.
 
 ---
 
-![Project Screenshot](path/to/your/image.png)
+![Project Screenshot](Project_Screenshot.png)
 
 ---
 **Author**: Yashvardhan Singh
