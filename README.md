@@ -56,8 +56,6 @@ def fetch_poster(id):
     return "https://image.tmdb.org/t/p/w500/" + data['poster_path']
 ```
 
-![API Request Flow](path/to/your/image.png)
-
 ### 4. User Interface
 - The interface is built using **Streamlit**, allowing users to select a movie and get recommendations.
 - The results are displayed in a structured layout with posters.
@@ -122,6 +120,6 @@ This project is licensed under the MIT License.
 ![Project Screenshot](path/to/your/image.png)
 
 ---
-**Author**: Your Name  
-**GitHub**: [Your GitHub Profile](https://github.com/your-profile)
+**Author**: Yashvardhan Singh 
+**GitHub**: [YashVdSingh07]([https://github.com/your-profile](https://github.com/YashVdSingh07))
 
